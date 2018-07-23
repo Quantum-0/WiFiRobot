@@ -1,2 +1,14 @@
 # WiFiRobot
-Robot, based on arduino, controlled via wifi
+
+Небольшой проект для дистанционного управления роботом/машинкой на основе платы Arduino Mega 2560 + WiFi (от RobotDyn)
+
+## Содержимое
+
+Репозиторий включает в себя следующие проекты:
+* Прошивка для Arduino
+* Прошивка для ESP266 (отсутствует, т.к. потерял исходники)
+* Desktop-приложение для управления роботом
+
+## Демонстрация
+
+[![Example](./img-2018-07-23-16-09-44.png)](http://www.youtube.com/watch?v=9bpjUbe9dkg "Wi-Fi Robot Demonstation")
